@@ -1,0 +1,25 @@
+# Package Files #
+*.jar
+*.war
+*.ear
+*.zip
+
+# IDE Files #
+.classpath
+.project
+.settings/
+.idea/
+*.iml
+
+dist
+build
+bin
+*.class
+target/
+test-output/
+/tests/
+/coverage/
+*.log
+out/*
+output/*
+.tmp/
